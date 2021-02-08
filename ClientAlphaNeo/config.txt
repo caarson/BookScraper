@@ -1,6 +1,0 @@
-mobile_emulation = "False"
-proxy = "False" # 191.103.219.225:48612
-firefox = "True"
-driver_path = "C:\Users\imitr\Documents\webdriver"
-spreadsheet_url = ""
-random_user_agent = "True"
